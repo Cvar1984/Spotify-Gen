@@ -27,8 +27,12 @@ class Spotify
     }
 }
 try {
-    $banner = file_get_contents('banner.txt');
-    fprintf(STDOUT, "%s\n", $banner);
+    for($x=0;$x<154;$x++) {
+        $banner = file_get_contents('assets/text/ricardo_'.$x.'.txt');
+        fprintf(STDOUT, "%s\r", $banner);
+        usleep(90000);
+        @system('clear');
+    }
     $jumlah = readline('jumlah >> ');
     $generate = new Spotify($jumlah);
     $generate->saveResult('result.json', 'a');
