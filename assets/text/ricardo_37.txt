@@ -1,0 +1,40 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxo;,..[37m [0m[37m [0m[37m [0m[31m.[0m[31m.[0m..'....;,coxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxc.[31m [0m[31m [0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m [0m[31m.[0m[31m.[0m[31m.[0m .,xkxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxc[37m [0m[31m [0m[31m [0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m.. .xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. [31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m.. ;xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxo .''....[31m.[0m[31m.[0m[31m.[0m[31m'[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m [0m[37m [0mlxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxo..,;'.',,,;;[31m'[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m [0m[31m [0m:xxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx: .,,....',;;;[31m'[0m[31m'[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m [0m.xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxd'.,,,'..'',,,,,,'[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m [0m.dxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'.'';;;,;;:::;,,'.',[31m'[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[37m.[0mxkxxxxxxxxxxxxxxxx
+;cxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,.';;;;,,;:c::;,'':c;[31m,[0m[31m'[0m[31m.[0m[31m.[0m[31m [0m;xxxxxxxxxxxxxxxxxx
+.;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxkc .,;;,';::cc:,,'':c:;.[31m [0m[37m [0m'xxxxxxxxxxxxxxxxxxx
+,lxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxk: ':c::::cccc:,'.';;,...lxxxxxxxxxxxxxxxxxxxx
+..,oxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxo.'clcccc:;;;,,..,;,'. dxxxxxxxxxxxxxxxxxxxxx
+c...oxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,.,;clc::;,,'..,;;,'. lxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxddooolcclooxxxxl ..,,;,,,,,,'',::;'.   oxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxd:,................' [37m [0m ...'''''''',:c:,.. [37m [0m[37m [0m;xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxo;. ..'',,,,,,,,''.......   ....',;;:ccc;'..  ,xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxo. ..',;;;;;;;;,,,,''....''. ....',;::ccc;,.....lxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxl...',;;:cc:::::;;;,,'...........,;;;::::;,'.......;lxxxxxxxxxxxxxxxxxx
+..dxxxxxo. ...',;:cccccccllc::;,,'........,;cl:::;,,''''''','..,:dxxxxxxxxxxxxxx
+l:dxdl;. ....'',,,;:;;;;;:clllc::;,,''''''';:ll::;,,,,''',;;::;,..':dxxxxxxxxxxx
+xl'.......''',,,,,,,,,'.',:cloolcc:;;,,,',,',,;;;,''''.....''''''... ,dxxxxxxxxx
+d ..',,,,;,,;;;;;;;;;,,..,;:cloolcc:;;;,,,,;,,,...'''''...........'... .;lxxxxxx
+l .',;::cc:::;;;;;;;,.....,;:cllllcc:::;;;;;;;;,',,,,,,''''''..',;;;;,'.. .,dxxx
+c ';:ccllcc:;;,,,,,'.    .',;:cllooollc::;;;,;;,,,,,,,''''''''',;;;;,'''.....lxx
+;.;:cccc::;;,,''.....     .',;;:ccllollcc:;;,,,,'''''''',;:::;,,,,,,,,,''.... ox
+.';;;;;;,,'....  ............',;;:ccclolcc:;,'''''....',;:cccc::;;;;;;;,,'''..,x
+..',,''.... .'co; ..',,,,'.....',;:::ccccc:;'''......',:clllllc:;,,,;cc:;,,,,..x
+.......  .,:dxxxx, .',;;,,'......,;;;:::::;,'.'',,,,',;cloooolc:;,''',:c;,,;,. o
+. ...,:lxxxxxxxxxo ..,,,,,,,.....'',,;;;;,'......',;:::clooooolc:;''',;c:;;;,. o
+dllxxxxxxxxxxxxxxx, .'''''','.....'',,,,,'..........';::clloooollc;,'',,,,;,'..x
+xxxxxxxxxxxxxxxxxxl ........'....'',,,;;,....'........,;::cclllllc:;,,,;,,''. ;x
+xxxxxxxxxxxxxxxxxxx. .........''',,,;;:::,'........    ..,;::::clc:;,,;;;,'.. :x
+xxxxxxxxxxxxxxxxxxxo.  ......'''',,,;;;:c;,','''...    [37m [0m   ...'',;;,'',;;;'.. ;x
+xxxxxxxxxxxxxxxxxxxxd  .....''..',;;;:cc:;,;c:;;;;'..  [37m [0m[37m [0m[37m [0m[37m [0m[37m [0m  ..',,,,'.';;,....d
+xxxxxxxxxxxxxxxxxxxxx  .....''.',,;;:cll:;;cc;,;;,...   [37m [0m[37m [0m .. .',,,,,,'.';,'.. '
+xxxxxxxxxxxxxxxxxxxxc  ...''''',,,;;;:c:;;;c;,,;;;,...   [37m [0m.xd .',;;;,;,,''''... 
+xxxxxxxxxxxxxxxxxxxxd  ...'...',,;;;:cc:;;:;,,,;cl:,...  [37m [0m.xx. .,,;,;;;;,.....  
+xxxxxxxxxxxxxxxxxxxxx,.. ......',,,,,;;,,;;,'..',,'.... .'oxxo. .....',''.......
+xxxxxxxxxxxxxxxxxxxxxxxkl,...........'......',,,,,;;llxkxxxxxxxdc;::,....,lxxxxx

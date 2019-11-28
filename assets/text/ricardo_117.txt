@@ -1,0 +1,40 @@
+ddddddddddddddddddddddddddddddddddddddo:'.[37m.[0m[37m [0m[37m [0m[37m [0m[37m.[0m.......',:ldddddddddddddddddddddd
+ddddddddddddddddddddddddddddddddddddc.[37m [0m[31m [0m[31m [0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[37m [0m .ldddddddddddddddddddd
+ddddddddddddddddddddddddddddddddddd,[37m [0m[31m [0m[31m [0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m...cddddddddddddddddddd
+ddddddddddddddddddddddddddddddddddc[37m [0m[31m [0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m....ddddddddddddddddddd
+dddddddddddddddddddddddddddddddddd, .''...[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m [0m;dddddddddddddddddd
+dddddddddddddddddddddddddddddddddd; .,,...',,;;[31m'[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m [0m,dddddddddddddddddd
+dddddddddddddddddddddddddddddddddd. .;,...'',;:;[31m'[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m [0m[37m [0modddddddddddddddddd
+dddddddddddddddddddddddddddddddddd..',,'..'',,,,,'.[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[37m [0mcddddddddddddddddddd
+ddddddddddddddddddddddddddddddddd'.'.,;,,,;:::;,''..,[31m'[0m[31m.[0m[31m.[0m[31m.[0m[31m.[0m[31m [0m;dddddddddddddddddddd
+ddddddddddddddddddddddddddddddddd..',;;;;,;cc:;;,'';c:[31m,[0m[31m.[0m[31m.[0m[31m [0m.odddddddddddddddddddd
+ddddddddddddddddddddddddddddddddd. .,;;;',;:cc:;,'';::,. [37m [0m:ddddddddddddddddddddd
+ddddddddddddddddddddddddddddddddd, .;:::;::ccc:;'..,;,. ,odddddddddddddddddddddd
+dddddddddddddddddddddddddddddddddl..:llccc::;;,,'.',,'..dddddddddddddddddddddddd
+dddddddddddddddddddddddddddddddddd:.';cccc:;;,''.';;,'. :ddddddddddddddddddddddd
+dddddddddddddddddlc::::;;:cldddddd;..,;;;,,,,,'.';:;'.   cdddddddddddddddddddddd
+ddddddddddddo:'................,,.  ...'''''''',;c:,.. [37m [0m ;dddddddddddddddddddddd
+dddddddddd:'....',,;;;,,,,'........   .....,;;;:cc;'.. .:ddddddddddddddddddddddd
+ddddddddo. ..',;::::::;;;,,'.............'',;:ccc:,.....;ldddddddddddddddddddddd
+ddddddo:. ....',;:ccccccc::;,,'.........',;;;:::;,'........,codddddddddddddddddd
+do:;,........'''',;::ccccllc::;,'.......';clc:::,''''.'',,,'...;lddddddddddddddd
+'.....''''''''',,,,,,,,,;:lolcc:;,,'''...';clc;:,,,,''.',;;;;,'...,ldddddddddddd
+'.';;;;;;;;;,,,,,,,,,,'',:cloolcc:;;,,'''''',,,,'.........',,'....  .:oddddddddd
+'.;:cc:::::;;,,,,,,,',..,;:cloolcc:;;,,,,,,,''...........,;;;,........ .,cdddddd
+'';cc:::::;;,,'''''......,;:clooolcc:;;,,,''''...',,''..',,,,'.....'..... .cdddd
+.';;;;;,,,''........    ..,;:cclooolc:;,'.......',;::;;;,,,,,,,,'.'',''.....:ddd
+ .','''...............   ..,;;::ccllcc:,'.......,:cccc::;;,,;;::;;,;;;,''''. odd
+............,:: ...'........',,;::cccc:,'..  ..':cllllcc:;,',;;,,,;:c:;,',,..;dd
+' .....,;cddddd; .',;;;;,.....'',;;;:;;,,,,;;,',;cloooollc:;''''..',;c:,,;,'..dd
+dodddddddddddddo...,;::;,,'......'',,,''....',:::clloooolllc:,'....',::;;;;'..dd
+dddddddddddddddd, .,;;,,,;;'.......'''.....  ..,;:ccllllllll:;,....'',,,,;,..,dd
+ddddddddddddddddo..',,,',,,'......''''....  .....',;:ccc:::lc:;,..',,;;,,'.. :dd
+ddddddddddddddddd, ....''''''...'',,,,;,................',,,::;;'..,:::;,'.. :dd
+dddddddddddddddddl ..........''',,,;;;:c;,........       .',,;::;,.':c::;,.. 'dd
+dddddddddddddddddd'  .......'''',,,,;;:c:;',,,,,'..  [37m [0m[37m [0m[37m [0m[37m [0m .,,;;:::;'';c:;,'.. ;d
+ddddddddddddddddddd' ......''..',,;;:clc:,;cc::::,..  [37m [0m[37m [0m[37m [0m[37m [0m ';;;::c::;'';:;,'.. l
+ddddddddddddddddddd:  .....''..',;;::clc;,:l:;;:;'..   [37m [0m',..,::;::ccc:,..''... '
+dddddddddddddddddddc[37m [0m ....'''',,,;;;:cc:;;::;,;;c:,... [37m [0mcdc .,:::::ccc:;'.....  
+dddddddddddddddddddl  ....'..',,,;;::c:;;:c;;;;:lc;'..   ;d..',;:;;::c:;,'....  
+dddddddddddddddddddd;.  ......'',,,,;;,,,;;,''',,,...  .,cdl...',,,,,,,,'...   .
+ddddddddddddddddddddddo:;'..... ......'.....''...,';coddddddl;'..........,;;c;;o
