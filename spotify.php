@@ -9,6 +9,9 @@ class Spotify
         }
         $jumlah = trim($jumlah);
         $result = file_get_contents("http://n1ghthax0r.000webhostapp.com/api/spotify/?jumlah={$jumlah}");
+        if (!$result) {
+            throw new Exception('Failed API limit');
+        }
         $this->result = $result;
     }
 
@@ -38,7 +41,7 @@ try {
         fprintf(STDOUT, "Pass    :\t%s\n", $row['Password']);
         fprintf(STDOUT, "Country :\t%s\n", $row['Country']);
         if (!empty($row['Expired'])) {
-            fprintf(STDOUT, "Expired :%s\n", $row['Expired']);
+            fprintf(STDOUT, "Expired :\t%s\n", $row['Expired']);
         }
     }
 } catch (Exception $e) {
