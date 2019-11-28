@@ -1,43 +1,42 @@
 <?php
-
-@system("clear");
-$blue="\033[1;34m";
-$cyan="\033[1;36m";
-$okegreen="\033[92m";
-$lightgreen="\033[1;32m";
-$white="\033[1;37m";
-$purple="\033[1;35m";
-$red="\033[1;31m";
-$yellow="\033[1;33m";
-
-print "\n";
-print "$red //$white Don't be$yellow Capitalism\n";
-print "$white    We listen$okegreen Musics$white without$red Ads\n";
-print "\n";
-print "$yellow ->$white Let's generate some$okegreen Spotify Premium$white Account\n";
-print "\n";
-print "$okegreen ??$white Total : ";
-$jumlah = trim(fgets(STDIN));
-print "\n";
-print "$red //$white Generating $jumlah Account\n";
-print "\n";
-$result = file_get_contents('http://n1ghthax0r.000webhostapp.com/api/spotify/?jumlah='.$jumlah);
-$json = json_decode($result, true);
-foreach ((array) $json as $row){
-    $country = $row['Country'];
-    $type = $row['Account Type'];
-    $email = $row['Email'];
-    $pass = $row['Password'];
-    $exp = $row['Expired'];
-    print "$okegreen **$white Type    : $type\n";
-    print "$okegreen **$white Email   : $email\n";
-    print "$okegreen **$white Pass    : $pass\n";
-    print "$okegreen **$white Country : $country \n";
-    if ($exp == ''){
-        print "\n";
+class Spotify {
+    public $result;
+    function __construct($jumlah)
+    {
+        if(!is_numeric($jumlah)) {
+            throw new Exception('jumlah not numeric');
+        }
+        $jumlah = trim($jumlah);
+        $result = file_get_contents("http://n1ghthax0r.000webhostapp.com/api/spotify/?jumlah={$jumlah}");
+        $this->result=$result;
     }
-    else{
-        print "$okegreen **$white Expired : $exp\n";
-        print "\n";
+
+    public function saveResult($fileName, $mode)
+    {
+        $tulis=fopen($fileName, $mode);
+        if($tulis) {
+            fprintf($tulis, $this->result);
+            fclose($tulis);
+        }
+        else {
+            throw new Exception('failed to save result');
+        }
+    }
+}
+$banner=file_get_contents('banner.txt');
+fprintf(STDOUT ,"%s\n", $banner);
+$jumlah = readline('jumlah >> ');
+$generate = new Spotify($jumlah);
+$generate->saveResult('result.json','a');
+
+$json = json_decode($generate->result, true);
+
+foreach( (array)$json as $row) {
+    fprintf(STDOUT, "Type    :\t%s\n", $row['Account Type']);
+    fprintf(STDOUT, "Email   :\t%s\n", $row['Email']);
+    fprintf(STDOUT, "Pass    :\t%s\n", $row['Password']);
+    fprintf(STDOUT, "Country :\t%s\n", $row['Country']);
+    if(!empty($row['Expired'])) {
+        fprintf(STDOUT, "Expired :%s\n", $row['Expired']);
     }
 }
