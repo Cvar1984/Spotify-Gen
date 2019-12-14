@@ -19,9 +19,9 @@ class Spotify
     {
         $tulis = fopen($fileName, $mode);
         if ($tulis) {
-            $this->result=json_decode($this->result, true);
-            $this->result=json_encode($this->result, JSON_PRETTY_PRINT);
-            fprintf($tulis, $this->result.',');
+            $this->result = json_decode($this->result, true);
+            $this->result = json_encode($this->result, JSON_PRETTY_PRINT);
+            fprintf($tulis, $this->result . ',');
             fclose($tulis);
         } else {
             throw new Exception('failed to save result');
@@ -29,7 +29,9 @@ class Spotify
     }
 }
 try {
-    $banner = file_get_contents('assets/text/banner.txt');
+    $banner = fopen('assets/text/banner.txt', 'r');
+    $banner = fread($banner, filesize('assets/text/banner.txt'));
+
     fprintf(STDOUT, '%s%s', $banner, PHP_EOL);
 
     $jumlah = readline('jumlah >> ');
@@ -42,7 +44,7 @@ try {
         fprintf(STDOUT, "Type    :\t%s\n", $row['Account Type']);
         fprintf(STDOUT, "Email   :\t%s\n", $row['Email']);
         fprintf(STDOUT, "Pass    :\t%s\n", $row['Password']);
-        if(!empty($row['Country'])) {
+        if (!empty($row['Country'])) {
             fprintf(STDOUT, "Country :\t%s\n", $row['Country']);
         }
         if (!empty($row['Expired'])) {
